@@ -33,7 +33,7 @@ $ npm install
 $ node server.js
 ```
 
-3. Now, the server is running, open the link http://localhost:5000/chat.html to access the chat interface
+3. Now, the server is running,to access the chat interface
 
 4. Type your name and the 2nd person name and press done to establish a connection. You will see the entire chat history retrieved between the two people.
 
